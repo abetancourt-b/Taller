@@ -2,6 +2,7 @@
 
 # Punto 1 
 En estas imagenes se nota que al poner valores positivos, el programa cumple y muestra los cuadrados, pero al ser negativo muestra un mensaje de error. 
+
 <img width="375" height="101" alt="image" src="https://github.com/user-attachments/assets/6c9de110-e1bc-4bc1-a306-e44bb6c3b938" /> <img width="281" height="110" alt="image" src="https://github.com/user-attachments/assets/e5679fef-2bac-4ecc-bace-6705cb3cc4a2" />   <img width="310" height="112" alt="image" src="https://github.com/user-attachments/assets/e18b8ffb-4651-4f63-9bca-41b1ba55f17f" />
 
 # Punto 2 
